@@ -2,6 +2,12 @@
 
 ---
 
+- 🌱 I’m currently studying at **Indian Institute of Technology (IIT)**
+
+- 👨‍💻 Highly passionate about **Computer Vision and Generative AI**
+
+---
+
 <h3 align="left">Tech Stack:</h3>
 
 <p align="left">
