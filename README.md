@@ -1,5 +1,6 @@
-# asdf
+<h1 align="center">Hi 👋 I'm Asaduddin</h1>
 
+<h3 align="left">Tech Stack:</h3>
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c" alt="C" />
