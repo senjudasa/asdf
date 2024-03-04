@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋 I'm Asaduddin</h1>
 
+---
+
 <h3 align="left">Tech Stack:</h3>
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=c" alt="C" />
 <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
 <img src="https://skillicons.dev/icons?i=py" alt="Python" />
@@ -20,4 +23,7 @@
 <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
 
 </p>
+
+---
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=909Ahmed&show_icons=true&locale=en&layout=compact"/></p>
